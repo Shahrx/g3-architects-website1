@@ -4,3 +4,12 @@
 * {
   font-family: 'Work Sans', sans-serif;
 }
+
+/* header style */
+header {
+  background: rgba(255, 144, 14, 0.1);
+  padding: 50px, 240px;
+}
+nav {
+  display: flex;
+}
